@@ -17,8 +17,11 @@ Last update: 05/01/2025
 - **Researcher**, [Department of Electronic Engineering (Jiangong Campus), National Kaohsiung University of Science and Technology](http://www.ec.nkust.edu.tw/en/)
   - Aug,2024 - Now
   - Research Assistant
+  - Publication:
+      - [Area-Efficient Hardware Implementation of Simulated Annealing for Ising Model Based on Stochastic Computing](https://ieeexplore.ieee.org/document/11329629)
+      - [Hardware-efficient architecture of spiking neural networks based on sign-magnitude stochastic computing](https://www.sciencedirect.com/science/article/abs/pii/S0167926026000179)
 - **Researcher**, [Department of Automation Engieernig, National Formosa University](https://autoweb.nfu.edu.tw/)
-  - Oct,2022 - Jan,2024 · 1yr 4mos
+  - Feb,2022 - Jan,2024 · 2yrs
   - [Work on detection of product defects](https://hdl.handle.net/11296/8s2xx2)
 - **Intern**, [Evest Company - 元利盛精密機械](https://www.evest.com.tw/)
   - July,2022 - Sep,2022 · 3 mos
