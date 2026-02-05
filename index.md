@@ -19,7 +19,7 @@ Last update: 05/01/2025
   - Research Assistant
   - Publication:
       - [Area-Efficient Hardware Implementation of Simulated Annealing for Ising Model Based on Stochastic Computing](https://ieeexplore.ieee.org/document/11329629)
-      - [Hardware-efficient architecture of spiking neural networks based on sign-magnitude stochastic computing](https://www.sciencedirect.com/science/article/abs/pii/S0167926026000179)
+      - [Hardware-Efficient Architecture of Spiking Neural Networks Based on Sign-Magnitude Stochastic Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167926026000179)
 - **Researcher**, [Department of Automation Engieernig, National Formosa University](https://autoweb.nfu.edu.tw/)
   - Feb,2022 - Jan,2024 · 2yrs
   - [Work on detection of product defects](https://hdl.handle.net/11296/8s2xx2)
