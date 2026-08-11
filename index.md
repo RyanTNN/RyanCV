@@ -22,7 +22,7 @@ Last update: 05/01/2025
       - [Hardware-Efficient Architecture of Spiking Neural Networks Based on Sign-Magnitude Stochastic Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167926026000179)
 - **Researcher**, [Department of Automation Engieernig, National Formosa University](https://autoweb.nfu.edu.tw/)
   - Feb,2022 - Jan,2024 · 2yrs
-  - [MSc Thesis: Inspection of the Mechanical Seal Gasket Defects Using YOLO Algorithm](https://hdl.handle.net/11296/8s2xx2)
+  - Thesis: [Inspection of the Mechanical Seal Gasket Defects Using YOLO Algorithm](https://hdl.handle.net/11296/8s2xx2)
   - Publications:
       - [Design the Separation Method and Holder for Plastic Lenses](https://www.researchgate.net/publication/370188328_Design_the_Separation_Method_and_Holder_for_Plastic_Lenses)
       - [Design of a Micro-hole Array Device for Picking the Micro Lenses - Best Paper Award](https://ieeexplore.ieee.org/document/10042934)
