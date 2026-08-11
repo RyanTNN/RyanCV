@@ -17,15 +17,18 @@ Last update: 05/01/2025
 - **Researcher**, [Department of Electronic Engineering (Jiangong Campus), National Kaohsiung University of Science and Technology](http://www.ec.nkust.edu.tw/en/)
   - Aug,2024 - Now
   - Research Assistant
-  - Publication:
+  - Publications:
       - [Area-Efficient Hardware Implementation of Simulated Annealing for Ising Model Based on Stochastic Computing](https://ieeexplore.ieee.org/document/11329629)
       - [Hardware-Efficient Architecture of Spiking Neural Networks Based on Sign-Magnitude Stochastic Computing](https://www.sciencedirect.com/science/article/abs/pii/S0167926026000179)
 - **Researcher**, [Department of Automation Engieernig, National Formosa University](https://autoweb.nfu.edu.tw/)
   - Feb,2022 - Jan,2024 · 2yrs
-  - [Work on detection of product defects](https://hdl.handle.net/11296/8s2xx2)
+  - [MSc Thesis: Inspection of the Mechanical Seal Gasket Defects Using YOLO Algorithm](https://hdl.handle.net/11296/8s2xx2)
+  - Publications:
+      - [Design the Separation Method and Holder for Plastic Lenses](https://www.researchgate.net/publication/370188328_Design_the_Separation_Method_and_Holder_for_Plastic_Lenses)
+      - [Design of a Micro-hole Array Device for Picking the Micro Lenses - Best Paper Award](https://ieeexplore.ieee.org/document/10042934)
 - **Intern**, [Evest Company - 元利盛精密機械](https://www.evest.com.tw/)
   - July,2022 - Sep,2022 · 3 mos
-  - Technical assembly support, [Design ultrasonic horn](https://www.researchgate.net/publication/370188328_Design_the_Separation_Method_and_Holder_for_Plastic_Lenses), [Design Micro-hole Array](https://ieeexplore.ieee.org/document/10042934)
+  - Technical assembly support
 
 - **Part-time Job**, [Cuong Thanh Garage](https://www.facebook.com/cuongthanh.garage/).
   - Jan,2019 - Dec,2021 · 2yrs 11mos
